@@ -19,4 +19,4 @@
 
         $ rails s
 
-6. Using a browser, go to `http://localhost:3000` and you'll see Index Posts page.
+6. Using a browser, go to `http://localhost:3000/posts` and you'll see index page for Posts.
